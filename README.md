@@ -1,4 +1,4 @@
-# Qatar Development Bank Demo.
+# QDB Demo.
 
 This repository contains two applications:
 - **backendApp** (Backend server)
