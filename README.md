@@ -40,16 +40,16 @@ The backend server will run on port 5000.
 ```bash
 cd dashBoard_app
 ```
-2 Install dependencies:
+2 Install dependencies
 ```bash
-npm install
+npm install --force
 ```
 3 Ensure your .env file is present in the frontend  folder (already added in repo)
 
 4 Start the frontend application:
 
 ```bash
-npm start
+npm start 
 ```
 The frontend will be accessible on port 4000 
 http://localhost:4000
