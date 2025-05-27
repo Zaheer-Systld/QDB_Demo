@@ -1,4 +1,4 @@
-# Project Name
+# Qatar Development Bank Demo.
 
 This repository contains two applications:
 - **backendApp** (Backend server)
